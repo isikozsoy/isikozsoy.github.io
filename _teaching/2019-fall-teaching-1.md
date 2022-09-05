@@ -8,7 +8,7 @@ date: 2019-10-01
 location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Helped CS 115 (Introduction to Python) students with their lab assignments. Guied them to use the concepts covered in the course properly during the lab.
 
 Heading 1
 ======

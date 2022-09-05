@@ -1,5 +1,5 @@
 ---
-title: "Assesing the Quality of GitHub Copilot's Code Generation"
+title: "Assessing the Quality of GitHub Copilot's Code Generation"
 collection: publications
 permalink: /publication/2022-09-06-Assessing-the-Quality-of-GitHub-Copilot's-Code-Generation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

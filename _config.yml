@@ -14,7 +14,7 @@ description              : &description "Computer Engineer & Research Volunteer"
 url                      : "https://isikozsoy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isikozsoy/isikozsoy.github.io"
-teaser                   : "profile_isik720x720.png"
+teaser                   : "profile_isik.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Işık Özsoy"
-  avatar           : "profile_isik720x720.png"
+  avatar           : "profile_isik.png"
   bio              : "Computer Engineer & Research Volunteer"
   location         :
   employer         :

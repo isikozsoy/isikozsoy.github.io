@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "PHYS 102 Lab Grader"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course - PHYS102"
+venue: "Bilkent University, Physics"
+date: 2020-08-26
+location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graded PHYS 102 students' lab reports.

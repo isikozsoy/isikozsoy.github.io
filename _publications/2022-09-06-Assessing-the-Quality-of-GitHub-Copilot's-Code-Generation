@@ -5,7 +5,7 @@ permalink: /publication/2022-09-06-Assessing-the-Quality-of-GitHub-Copilot's-Cod
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-06
 venue: 'Conference: 18th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE '22)'
-paperurl: '[https://www.researchgate.net/publication/363267006_Assessing_the_Quality_of_GitHub_Copilot's_Code_Generation]'
+paperurl: 'https://www.researchgate.net/publication/363267006_Assessing_the_Quality_of_GitHub_Copilot's_Code_Generation'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.

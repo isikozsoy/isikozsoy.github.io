@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Assesing the Quality of GitHub Copilot's Code Generation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-09-06-Assessing-the-Quality-of-GitHub-Copilot's-Code-Generation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 22022-09-06
+venue: 'Conference: 18th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE '22)'
+paperurl: '[https://www.researchgate.net/publication/363267006_Assessing_the_Quality_of_GitHub_Copilot's_Code_Generation]'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Burak-Yetistiren-2/publication/363267006_Assessing_the_Quality_of_GitHub_Copilot's_Code_Generation/links/6315d402acd814437f07075d/Assessing-the-Quality-of-GitHub-Copilots-Code-Generation.pdf?_sg%5B0%5D=VC2fffelLOgYcXNYrmEXFJzj-eblHQmIBmHCBn90kuGpqP4ZEpOBgATTycEzh-_MUK1yQAPwBIyeRJ0V7p4hUw.4Rd2UugFpd0J_G01UdWanM5hiyukvvr1ujIeDj4BaCPjzIm-yRd2DGGXZuD_U9wQifbY89IcRUXmiA5AnAuzNQ&_sg%5B1%5D=w13Vs6BflazI9Tx_u5aTcxxWhyxmWJe4psCSnIBwZRm8yvqjB1c9WgaftkQywJZ7Eeayx7xQjsGQnijt3z3u-_fVzhHIBH2VFc0RG_D5-nQS.4Rd2UugFpd0J_G01UdWanM5hiyukvvr1ujIeDj4BaCPjzIm-yRd2DGGXZuD_U9wQifbY89IcRUXmiA5AnAuzNQ&_iepl=)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

@@ -7,4 +7,4 @@ date: 2019-10-01
 location: "Ankara, Turkey"
 ---
 
-Helped CS 115 (Introduction to Python) students with their lab assignments. Guied them to use the concepts covered in the course properly during the lab.
+Helped CS 115 (Introduction to Python) students with their lab assignments. Guided them to use the concepts covered in the course properly during the lab.
